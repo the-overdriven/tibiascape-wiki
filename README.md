@@ -9,6 +9,7 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 
 ## Is there a downloadable explored map?
 - not yet, you can try to use one from other player, or from other OT
+- map is located in `%appdata%\OTClientV8\Tibiascape\minimap1098.otmm`
 
 ## Are there custom areas?
 - yes, some spawns are extended or slightly modified
