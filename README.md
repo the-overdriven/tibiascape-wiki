@@ -12,7 +12,8 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 8. you don't need to write city when you send parcel (mailbox is global, but depots are local)
 9. you can set a hotkey for attacking monsters with a spacebar (or any key) in client options
 10. monsters have resistances similarily like in real tibia (i.e. you can't SD banshee)
-11. regardless of your PvP settings you can be killed by any character if you afk (door+field), or with a trap if you're PvP enabled
+11. regardless of your PvP settings you can be killed without a frag by any player if you afk (door+field), or with a trap if you're PvP enabled
+12. be aware that some quests give different rewards than normally
 
 ## what version is this?
 - Mix of old, new and custom. Some sprites are from 7.6 or older and all are upscaled to HD. There are some other 7.6 mechanics like i.e. you can't shoot runes on battle list in PvP, but you can browse fields and walk on pots.
@@ -63,16 +64,17 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 - yes
 
 ## how to get first rod/wand for free?
-- hi first wand (in your guild)
+- hi, first wand (in your guild)
 
 ## I can't buy spell xyz!
 - facc spells are in facc cities, pacc spells are in pacc cities
 
 ## do you loose anything when you die?
 - not on rook
+- on main: bag/backpack, any containers in hand or quiver slot (always), each EQ item has 10% chance to drop
 
 ## If I use a premium scroll right before server save, does the day counter go down when server is back?
-- time when you used it counts, not server save
+- time when you used scroll counts, not server save
 
 ## benefits of premium?
 - Boat travel, premium city/spells, promotion
