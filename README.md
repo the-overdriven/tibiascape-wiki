@@ -111,7 +111,8 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 - Capacity: +5
 - HP Regen: +0.01 (skip, it's a useless attribute)
 - MP Regen: +0.01
-- 0.01/s MP Regen = 1 MP per 100 seconds, 0.1/s MP Regen = 1 MP per 10 seconds, 1/s MP Regen = 1 MP per second
+(0.01/s MP Regen = 1 MP per 100 seconds, 0.1/s MP Regen = 1 MP per 10 seconds, 1/s MP Regen = 1 MP per second)
+- Speed: +0.2
 
 ## What do you gain with level up apart from mastery points?
 - only 0.5 in speed
