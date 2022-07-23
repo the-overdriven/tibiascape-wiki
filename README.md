@@ -13,6 +13,7 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 
 ## Are there custom areas?
 - yes, some spawns are extended or slightly modified
+- there are some completely new locations too (i.e. crystal spiders at Folda, TODO need more details)
 - there is no Ab'Dendriel
 
 ## Is there a shared xp bonus in party?
