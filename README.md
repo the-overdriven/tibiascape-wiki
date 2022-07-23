@@ -112,6 +112,10 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 - MP Regen: +0.01
 - 0.01/s MP Regen = 1 MP per 100 seconds, 0.1/s MP Regen = 1 MP per 10 seconds, 1/s MP Regen = 1 MP per second
 
+## What do you gain with level up apart from mastery points?
+- only 0.5 in speed
+- and full regen :)
+
 ## What to invest my points in?
 - whatever you feel like, but skip hp regen, mp regen is better (exura costs 25 mp and heals min. 25 HP even with mlvl 1)
 
