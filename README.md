@@ -53,7 +53,7 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 ## what modifiers can rare items have?
 - luck, attack, defense, resistances (physical, death, earth, energy, fire, ice, life drain, mana drain), skills, mana leech, life leech, stun, magic level, crit chance, max health, max mana
 
-## I got item my bricked by using 200 f...%$##$ mystic ore!
+## I got item my bricked by using 200 mystic ores!
 - working as designed Kappa
 
 ## I can't drop xyz from monster xyz!
