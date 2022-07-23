@@ -44,10 +44,10 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 - luck, attack, defense, resistances (physical, death, earth, energy, fire, ice, life drain, mana drain), skills, mana leech, life leech, stun, magic level, crit chance, max health, max mana
 
 ## I got item my bricked by using 200 mystic ores!
-- working as designed Kappa
+- works as designed Kappa, don't get it twisted
 
 ## I can't drop xyz from monster xyz!
-- yea, some loots are changed
+- yea, some loots are changed (TODO: needs more details)
 
 ## are there rods/wands?
 - yes
@@ -62,8 +62,9 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 - not on rook
 - on main: bag/backpack, any containers in hand or quiver slot (always), each EQ item has 10% chance to drop
 
-## what is the death penalty?
+## what is the XP/skill death penalty?
 - TODO
+- you don't loose your attributes with level (spent mastery points), but when you regain your level you don't get second time
 
 ## If I use a premium scroll right before server save, does the day counter go down when server is back?
 - time when you used scroll counts, not server save
@@ -100,17 +101,25 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 ## Can you reset mastery points?
 - no, better think twice before spending them
 
-## what to invest my points in?
+## What is the attribute increase per one mastery point?
+- HP: +2
+- Mana: +2
+- Capacity: +5
+- HP Regen: +0.01 (skip, it's a useless attribute)
+- MP Regen: +0.01
+- 0.01/s MP Regen = 1 MP per 100 seconds, 0.1/s MP Regen = 1 MP per 10 seconds, 1/s MP Regen = 1 MP per second
+
+## What to invest my points in?
 - whatever you feel like, but skip hp regen, mp regen is better (exura costs 25 mp and heals min. 25 HP)
 
-## how does regen work?
+## How does regen work?
 - you have your base vocational regen (active only if you eat food) 
 - you also have regen coming from your hp/mp regen attributes, one mastery point gives 1 mp per 100 sec (doesn't require food)
 
-## do you need to pick up spears, or do they break?
+## Do you need to pick up spears, or do they break?
 - no need to pick up, but they break
 
-## any beginner tips? (things you've wished to know sooner)
+## Any beginner tips? (things you've wished to know sooner)
 1. killing 100x of each monster is an easy way to level up because it gives you XP reward (but only once per monster)
 2. you don't need level 2 to cross Rook bridge and you don't need pacc for pacc side
 3. you don't loose any items in Rook when you die
