@@ -180,4 +180,5 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 10. monsters have resistances similarily like in modern tibia (i.e. you can't SD banshee)
 11. regardless of your PvP settings you can be killed without a frag by any player if you afk (door+field), or with a trap if you're PvP enabled
 12. be aware that some quests give different rewards than normally (i.e. valuables or runes instead EQ)
-13. have fun, don't forget it's just a game
+13. be aware of luring and overspawn feature (if monster leaves its spawn it will not disappear and another one will spawn again, even if the first one was not killed)
+14. have fun, don't forget it's just a game
