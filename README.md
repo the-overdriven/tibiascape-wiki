@@ -4,6 +4,9 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 ## Which tibia version is this OTS?
 - Mix of old, new and custom. Some sprites are from 7.6 or older and all are upscaled to HD. There are some other oldschool 7.6 mechanics, i.e. you can't shoot runes on battle list in PvP, but you can browse fields and walk on pots. Map is from real tibia around v.10, slightly trimmed down and modified.
 
+## When has the server started?
+- 17th of July 2022
+
 ## What are the rates?
 - mlvl x1, skills x1, exp x1, x2 until you recover your losses after death
 
@@ -16,6 +19,13 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 - there are some completely new locations too (i.e. crystal spiders at Folda, TODO need more details)
 - there is no Ab'Dendriel
 
+## Where is the server located?
+- east US
+- EU & BR ping: ~100ms
+
+## When is the server save?
+- 05:45 CET (Central European Time)
+
 ## Is there a shared xp bonus in party?
 - yes, 25% per vocation
 
@@ -26,6 +36,9 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 - no, you buy them from NPC, market or loot from monsters, the only conjurable spell is exevo pan
 
 ## Can I enable/disable pvp after I created a char?
+- no
+
+## Can I change my character's name?
 - no
 
 ## What does luck give?
