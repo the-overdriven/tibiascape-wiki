@@ -97,7 +97,11 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 - even better, there is a bestiary = can do all "tasks" at the same time automatically
 
 ## What are the bestiary rewards?
-- 100 kills = 1x ore & 100xp * monster xp, 500 kills = 2x ore, 1000 kills = 3x ore & 1k gold
+- 100 kills = 1x ore & 100xp * monster xp, 
+- 500 kills = 2x ore, 
+- 1000 kills = 3x ore & 1k gold
+- 2500 kills = 4x ore 2.5k gold
+- 5000 kills = 5x ore 5k gold 
 
 ## How to report bugs or player?
 - ctrl+z for bugs, ctrl+r for players
@@ -127,6 +131,13 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 
 ## Do you need to pick up spears, or do they break?
 - no need to pick up, but they break
+
+## I've fished a Northern Pike, what is it for?
+- Rashid quest
+
+## How to start Rashid quest?
+- you start on Monday and have to do something for him every day for seven days
+- if you skipped one day you don't have to start all over again on Monday, but you have to wait for the next weekday you've skipped
 
 ## Any beginner tips? (things you've wished to know sooner)
 1. killing 100x of each monster is an easy way to level up because it gives you XP reward (but only once per monster)
