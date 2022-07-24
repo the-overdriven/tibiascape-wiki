@@ -26,6 +26,7 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 - Rook: dwarves, smugglers, extended north-east wolf cave
 - Fibula: drillworms (80 lvl door)
 - Jakundaf desert: new Peninsula with DL underground
+- Cormaya cyclops
 - TODO
 
 ## Where is the server located?
