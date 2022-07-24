@@ -16,8 +16,17 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 
 ## Are there custom areas?
 - yes, some spawns are extended or slightly modified
-- there are some completely new locations too (i.e. crystal spiders at Folda, TODO need more details)
+- there are some completely new locations too
 - there is no Ab'Dendriel
+
+## What are the custom areas?
+- Folda: crystal spiders
+- Darashia: second minotaur tower west from Mino Pyramid
+- Thais: extended ancient temple, extended troll cemetery
+- Rook: dwarves, smugglers, extended north-east wolf cave
+- Fibula: drillworms (80 lvl door)
+- Jakundaf desert: new Peninsula with DL underground
+- TODO
 
 ## Where is the server located?
 - east US
@@ -102,6 +111,9 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 
 ## Since there is no Ab'Dendriel, where is Olrik NPC? (Postman quest)
 - house south/west from Ab'dendriel
+
+## Since there is no Ab'Dendriel, how do you get to Hellgate?
+- through wasp cave (Hellgate exit)
 
 ## How do I sell a house?
 - with command !sellhouse
