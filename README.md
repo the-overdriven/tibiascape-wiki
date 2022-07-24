@@ -133,7 +133,7 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 - no need to pick up, but they break
 
 ## I've fished a Northern Pike, what is it for?
-- Rashid quest
+- Rashid quest (20 northern pikes are needed for Thursday mission)
 
 ## How to start Rashid quest?
 - you start on Monday and have to do something for him every day for seven days
