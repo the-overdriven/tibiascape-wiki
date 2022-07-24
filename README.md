@@ -103,6 +103,9 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 ## Since there is no Ab'Dendriel, where is Olrik NPC? (Postman quest)
 - house south/west from Ab'dendriel
 
+## How do I sell a house?
+- with command !sellhouse
+
 ## How long does red skull last?
 - frag count x 24h
 
