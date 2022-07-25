@@ -96,6 +96,11 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 ## If I use a premium scroll right before server save, does the day counter go down when server is back?
 - time when you used scroll counts, not server save
 
+## What does promotion do?
+- increases vocational regen (the one that requires food)
+- decreases death penalty
+- grants access to some spells (i.e. exeta res for EK)
+
 ## Benefits of premium account?
 - boat travel, premium city/spells, promotion
 - outfits are purchasable separately on website shop
