@@ -174,7 +174,7 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 - if you skipped one day you don't have to start all over again on Monday, but you have to wait for the next weekday you've skipped
 
 ## Any beginner tips? (things you've wished to know sooner)
-1. killing 100x of each monster is an easy way to level up because it gives you XP reward (but only once per monster)
+1. killing 100x of each monster is an easy way to level up because it gives you XP reward (but only once per monster and you don't get XP reward for 100 rats)
 2. you don't need level 2 to cross north Rook bridge and you don't need pacc for the west premium area
 3. you don't loose any items in Rook when you die
 4. NPC Lee'delle has the cheapest prices on Rook: axe 18gp, scythe 10gp, shovel 9gp, rope 45gp
