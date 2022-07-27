@@ -91,7 +91,8 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 
 ## What is the XP/skill death penalty?
 - TODO
-- you don't loose your attributes with level (spent mastery points), but when you level up again you don't gain the points you already spent
+- ~~you don't loose your attributes with level (spent mastery points), but when you level up again you don't gain the points you already spent~~
+- since 26.07.2022 you loose random attributes with level, but you regain them when you level up again
 
 ## If I use a premium scroll right before server save, does the day counter go down when server is back?
 - time when you used scroll counts, not server save
