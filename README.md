@@ -158,7 +158,7 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 - and full regen :)
 
 ## What to invest my points in?
-- whatever you feel like, but skip hp regen, mp regen is better (exura costs 25 mp and heals min. 25 HP even with mlvl 1)
+- whatever you feel like, but skip hp regen, mp regen is better (exura costs 25 mp and even on low mlvl heals around 25 HP and better mp regen boosts your mlvl in the long run)
 
 ## How does regen work?
 - you have your base vocational regen (active only if you eat food) 
