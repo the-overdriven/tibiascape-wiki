@@ -39,7 +39,7 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 - 05:45 CET (Central European Time)
 
 ## Is there a shared xp bonus in party?
-- yes, 25% per vocation
+- yes, 25% per vocation, have to right click on yourself and choose "Enable shared xp"
 
 ## MC allowed?
 - no
@@ -187,7 +187,7 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 8. you don't need to write city when you send parcel (mailbox is global, but depots are local)
 9. you can set a hotkey for attacking monsters with a spacebar (or any key) in client options
 10. monsters have resistances similarily like in modern tibia (i.e. you can't SD banshee)
-11. regardless of your PvP settings you can be killed without a frag by any player if you afk (door+field), or with a trap if you're PvP enabled
+11. if you're PvP you can be killed without a frag by any player if you afk (door+field), or with a trap
 12. be aware that some quests give different rewards than normally (i.e. valuables or runes instead EQ)
 13. be aware of luring and overspawn feature (if monster leaves its spawn it will not disappear and another one will spawn again, even if the first one was not killed)
 14. have fun, don't forget it's just a game
