@@ -2,7 +2,7 @@
 tibiascape OTS (https://tibiascape.com/) FAQ by community
 
 ## Which tibia version is this OTS?
-- Mix of old, new and custom. Some sprites are from 7.6 or older and all are upscaled to HD. There are some other oldschool 7.6 mechanics, i.e. you can't shoot runes on battle list in PvP, but you can browse fields and walk on pots. Map is from real tibia around v.10, slightly trimmed down and modified.
+- Mix of old, new and custom. Some sprites are from 7.6 or older and all are upscaled to HD. There are some other oldschool 7.6 mechanics, i.e. you can't shoot runes on battle list in PvP, but you can browse fields and walk on pots. Map is from real tibia 10.98, slightly trimmed down and modified.
 
 ## When has the server started?
 - 17th of July 2022
@@ -14,19 +14,21 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 - not yet, you can try to use one from other player, or from other OT
 - map is located in `%appdata%\OTClientV8\Tibiascape\minimap1098.otmm`
 
-## Are there custom areas?
-- yes, some spawns are extended or slightly modified
-- there are some completely new locations too
-- there is no Ab'Dendriel
+## How custom is the map?
+- some spawns are removed, extended or slightly modified
+- there are some completely new locations
+- there is no Ab'Dendriel (there are monsters there now)
 
-## What are the custom areas?
+## What are the new custom spawns?
 - Folda: crystal spiders
 - Darashia: second minotaur tower west from Mino Pyramid
 - Thais: extended ancient temple, extended troll cemetery
-- Rook: dwarves, smugglers, extended north-east wolf cave
+- Rook: dwarves, smugglers, ghouls
 - Fibula: drillworms (80 lvl door)
 - Jakundaf desert: new Peninsula with DL underground
 - Cormaya cyclops
+- Port Hope dwarves
+- new spawn replacing Ab'Dendriel (?)
 - TODO
 
 ## Where is the server located?
