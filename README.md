@@ -2,7 +2,7 @@
 tibiascape OTS (https://tibiascape.com/) FAQ by community
 
 ## Which tibia version is this OTS?
-- Mix of old, new and custom. Some sprites are from 7.6 or older and all are upscaled to HD. There are some other oldschool 7.6 mechanics, i.e. you can't UH yourself or use potions with hotkeys and you can't shoot runes on battle list in PvP, but you can browse fields and walk on pots. Map is from real tibia 10.98, slightly trimmed down and modified.
+- Mix of old, new and custom. Some sprites are from 7.6 or older and all are upscaled to HD. There are some other oldschool 7.6 mechanics, i.e. you can't use runes/potions with hotkeys and you can't shoot runes on battle list in PvP, but you can browse fields and walk on pots. Map is from real tibia 10.98, slightly trimmed down and modified.
 
 ## When has the server started?
 - 17th of July 2022
