@@ -21,6 +21,7 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 
 ## What are the new custom spawns?
 - Folda: crystal spiders
+- Vega: chakoyas
 - Darashia: second minotaur tower west from Mino Pyramid
 - Thais: extended ancient temple, extended troll cemetery
 - Rook: dwarves, smugglers, ghouls
