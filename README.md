@@ -139,7 +139,7 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 - 500 kills = 2x ore, 
 - 1000 kills = 3x ore & 1k gold
 - 2500 kills = 4x ore 2.5k gold
-- 5000 kills = 5x ore 5k gold 
+- 5000 kills = 5x ore
 
 ## How to report bugs or player?
 - ctrl+z for bugs, ctrl+r for players
