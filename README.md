@@ -106,9 +106,9 @@ tibiascape OTS (https://tibiascape.com/) FAQ by community
 - grants access to some spells (i.e. exeta res for EK)
 
 ## Benefits of premium account?
-- boat travel, premium city/spells, promotion
+- boat travel, premium city/spells, promotion, houses
 - outfits are purchasable separately on website shop
-- houses can be owned by FACC (one per account)
+- ~~houses can be owned by FACC (one per account)~~ since 05.08.2022 only PACC can own houses
 
 ## Are there outfits addons?
 - yes, every city has addon NPC in depot, ask them for details
